@@ -1,0 +1,8 @@
+{
+  "SYS": {
+    "root": true,
+    "geo": ["TΩ", "XU", "Φ4", "O12"],
+    "modules": ["BRM", "TOOLOMAT", "TIME", "RUN8"],
+    "status": "active"
+  }
+}
