@@ -1,0 +1,10 @@
+{
+  "NC.WHIRL": {
+    "vector": "WHIRL_VECTOR",
+    "rotate": "WHIRL_ROTATE",
+    "pull": "WHIRL_PULL",
+    "zero": "WHIRL_ZERO",
+    "scan": "WHIRL_SCAN",
+    "sync": "NC.link"
+  }
+}
