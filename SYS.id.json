@@ -1,8 +1,22 @@
 {
-  "SYS": {
-    "root": true,
-    "geo": ["TΩ", "XU", "Φ4", "O12"],
-    "modules": ["BRM", "TOOLOMAT", "TIME", "RUN8"],
-    "status": "active"
+  "symbols": {
+    "PQ": {
+      "id": "PQ-LAPTOP",
+      "type": "laptop",
+      "icon": "symbol-laptop",
+      "route": "HH"
+    },
+    "PX": {
+      "id": "PX-APPLE",
+      "type": "mobile",
+      "icon": "symbol-apple",
+      "route": "viPIio"
+    },
+    "PR": {
+      "id": "PR-PC",
+      "type": "desktop",
+      "icon": "symbol-desktop",
+      "route": "HH"
+    }
   }
 }
