@@ -1,0 +1,37 @@
+{
+  "symbols": {
+    "PQ": {
+      "id": "PQ-LAPTOP",
+      "type": "laptop",
+      "icon": "symbol-laptop",
+      "route": "HH",
+      "vector": "pipe9",
+      "qi": 1,
+      "iqq": 1,
+      "octa": 1,
+      "re": "reCALL"
+    },
+    "PX": {
+      "id": "PX-APPLE",
+      "type": "mobile",
+      "icon": "symbol-apple",
+      "route": "viPIio",
+      "vector": "pipe3",
+      "qi": 2,
+      "iqq": 2,
+      "octa": 2,
+      "re": "reORGANIZE"
+    },
+    "PR": {
+      "id": "PR-PC",
+      "type": "desktop",
+      "icon": "symbol-desktop",
+      "route": "HH",
+      "vector": "pipe12",
+      "qi": 3,
+      "iqq": 0,
+      "octa": 3,
+      "re": "REfinal"
+    }
+  }
+}
