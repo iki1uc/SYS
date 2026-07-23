@@ -1,0 +1,22 @@
+window.SYS = window.SYS || {};
+
+SYS.vector = {
+    base: vector_raw,
+
+    qi: (i) => i % 9,
+    iqq: (i) => i % 3,
+    octa: (i) => i % 8,
+
+    pipe3: (i) => i % 3,
+    pipe6: (i) => i % 6,
+    pipe9: (i) => i % 9,
+    pipe12: (i) => i % 12,
+
+    recalc: () => {/* reCALL */},
+    reorganize: () => {/* reORGANIZE */},
+    reopt: () => {/* REOPTMIZED */},
+    redefrag: () => {/* REDEFRAG */},
+    reattikellate: () => {/* REATTIKELLATE */},
+    rehit: () => {/* reHIT */},
+    refinal: () => {/* REfinal SETUP */}
+};
